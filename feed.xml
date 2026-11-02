@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>まさかの歴史</title>
+    <link>https://www.youtube.com/@masakanorekishi</link>
+    <atom:link href="https://nekko131.github.io/masaka-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <description>まさかの歴史は、「よく聞く歴史の話」と記録のずれを、本人の手紙・公文書・当時の新聞などの一次資料から確かめる日本語のポッドキャスト。1回15〜20分で、毎回ひとつの問いを立て、最後に答えまでたどる。
+
+【作り方】
+引用は原文から当番組が訳している。既刊の翻訳書は使わない。諸説ある話は、確定していないと伝える。各回の出典はYouTube版の説明欄に載せている。
+
+【こんな人に】
+歴史の「定説」の裏側を知りたい人、通勤や作業中に聞ける歴史の話を探している人。
+
+動画版はYouTubeチャンネル「まさかの歴史」で公開している。
+
+※この番組のナレーションはAI音声(Gemini TTS)で作っています。</description>
+    <itunes:summary>まさかの歴史は、「よく聞く歴史の話」と記録のずれを、本人の手紙・公文書・当時の新聞などの一次資料から確かめる日本語のポッドキャスト。1回15〜20分で、毎回ひとつの問いを立て、最後に答えまでたどる。
+
+【作り方】
+引用は原文から当番組が訳している。既刊の翻訳書は使わない。諸説ある話は、確定していないと伝える。各回の出典はYouTube版の説明欄に載せている。
+
+【こんな人に】
+歴史の「定説」の裏側を知りたい人、通勤や作業中に聞ける歴史の話を探している人。
+
+動画版はYouTubeチャンネル「まさかの歴史」で公開している。
+
+※この番組のナレーションはAI音声(Gemini TTS)で作っています。</itunes:summary>
+    <itunes:author>まさかの歴史</itunes:author>
+    <itunes:owner><itunes:name>まさかの歴史</itunes:name><itunes:email>doramon4989@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://nekko131.github.io/masaka-podcast/cover.jpg"/>
+    <image><url>https://nekko131.github.io/masaka-podcast/cover.jpg</url><title>まさかの歴史</title><link>https://www.youtube.com/@masakanorekishi</link></image>
+    <itunes:category text="History"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Mon, 02 Nov 2026 01:59:19 +0000</lastBuildDate>
+
+  </channel>
+</rss>
